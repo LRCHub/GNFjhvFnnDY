@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "残機",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2026-01-03T15:34:28.558475Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "残機",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/01_残機_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "残機",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/02_残機_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "残機",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/03_残機_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "残機",
+      "artist": "ずっと真夜中でいいのに",
+      "has_synced": true,
+      "path": "select/04_残機_ずっと真夜中でいいのに.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "残機 (残机)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/05_残機_(残机)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "残機",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/06_残機_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "残機",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/07_残機_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "残機 - Time Left",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/08_残機_-_Time_Left_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "残機 - Time Left",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/09_残機_-_Time_Left_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "残機",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/10_残機_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "残機 (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/11_残機_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "残機 - 本格中華喫茶・愛のペガサス ~羅武の香辛龍~ 2024 / LIVE",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/12_残機_-_本格中華喫茶・愛のペガサス_~羅武の香辛龍~_2024___LIVE_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "残機 (Paused)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/13_残機_(Paused)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "残機",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_残機_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
